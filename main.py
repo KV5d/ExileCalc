@@ -1,3 +1,8 @@
+#Raine Berrigan
+#11/2020
+#Desc: Simple Python Calculator
+
+
 from tkinter import *
 
 def iCalc(source, side):
